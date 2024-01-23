@@ -1,0 +1,3 @@
+- **Description**: Implementation of the printf function.
+- **Language**: C
+- **How to run**: run make to compile as libftprintf.a
